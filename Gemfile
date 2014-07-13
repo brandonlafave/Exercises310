@@ -8,6 +8,8 @@ gem 'sqlite3'
 # Added gems
 gem 'devise'
 gem 'omniauth-github'
+gem 'haml'
+gem 'twitter-bootstrap-rails'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
